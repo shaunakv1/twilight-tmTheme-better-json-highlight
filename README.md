@@ -1,5 +1,5 @@
 # Twilight.tmTheme  - With Better JSON Highlight
-This is the original, twilight theme that ships with sublime, with added rules for better JSON syntax highlighting 
+This is the original, twilight theme that ships with sublime, with added rules for better JSON syntax highlighting. It used level basesd hilighting, to make it easier to read deep JSON files. 
 
 This is a modified version of https://github.com/MattDMo/Neon-color-scheme
 
