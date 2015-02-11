@@ -9,3 +9,6 @@ How to use,
 3. Open a JSON or JS file and from Quick Menu select "Edit current color scheme"
 4. Replace the file that opens with contents of file from this repo
 5. DISCO! Better colored JSON! 
+
+
+![alt tag](http://i61.tinypic.com/262ntz8.png)
