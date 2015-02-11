@@ -1,4 +1,4 @@
-# twilight-tmTheme-better-json-highlight
+# Twilight.tmTheme  - With Better JSON Highlight
 This is the original, twilight theme that ships with sublime, with added rules for better JSON syntax highlighting 
 
 
